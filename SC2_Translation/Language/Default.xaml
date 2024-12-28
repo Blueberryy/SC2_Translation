@@ -7,7 +7,7 @@
     <sys:String
         x:Key="LanguageName">Default Language</sys:String>
     <sys:String
-        x:Key="WindowTitleText">Starcraft II Text Translation</sys:String>
+        x:Key="WindowTitleText">StarCraft II Text Translation</sys:String>
     <sys:String
         x:Key="WindowTitleCurrentMod"
         xml:space="preserve">  Mod:</sys:String>
