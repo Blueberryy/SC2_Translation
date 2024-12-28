@@ -1,0 +1,59 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:sys="clr-namespace:System;assembly=mscorlib">
+
+    <!--#region Common Text-->
+    <sys:String
+        x:Key="LanguageName">Язык по умолчанию</sys:String>
+    <sys:String
+        x:Key="WindowTitleText">Перевод текста StarCraft II</sys:String>
+    <sys:String
+        x:Key="WindowTitleCurrentMod"
+        xml:space="preserve">  Модификация:</sys:String>
+    <sys:String
+        x:Key="Common_PathSelectButton_Content">Путь</sys:String>
+    <sys:String
+        x:Key="Common_ConfirmButton_Content">Подтвердить</sys:String>
+    <sys:String
+        x:Key="Common_ClearButton_Content">Очистить</sys:String>
+    <sys:String
+        x:Key="Common_SC2Components_Info">Папки компонентов SCII</sys:String>
+    <sys:String
+        x:Key="Common_SplitPunctuation"
+        xml:space="preserve">, </sys:String>
+    <sys:String
+        x:Key="Common_CutButton_Content">Вырезать</sys:String>
+    <sys:String
+        x:Key="Common_CopyButton_Content">Копировать</sys:String>
+    <sys:String
+        x:Key="Common_PasteButton_Content">Вставить</sys:String>
+    <!--#endregion-->
+
+    <!--#region Window Text-->
+    <sys:String
+        x:Key="RibbonContextualTabGroup_Config_Header">Настройки</sys:String>
+    <sys:String
+        x:Key="RibbonTabItem_Config_Header">Настройки</sys:String>
+    <sys:String
+        x:Key="RibbonTabItem_TranslateSelection_Header">Перевести выделенное</sys:String>
+    <sys:String
+        x:Key="RiibonGroupBox_CFG_Language_Header">Язык интерфейса</sys:String>
+    <sys:String
+        x:Key="LogGroupBox_Log_Header">Журнал</sys:String>
+    <sys:String
+        x:Key="MenuItem_LogClear_Header">Очистить журнал</sys:String>
+    <sys:String
+        x:Key="TextBox_TS_Path_Header">Путь к цели перевода:</sys:String>
+    <!--#endregion-->
+
+    <!--#region Log-->
+    <sys:String
+        x:Key="Log_ChangeSoftwareLanguageLogMessage_Text_0"
+        xml:space="preserve">Язык программы изменён на: </sys:String>
+    <sys:String
+        x:Key="Log_ChangeSoftwareLanguageLogMessage_Text_1">.</sys:String>
+    <!--#endregion-->
+
+
+</ResourceDictionary>
